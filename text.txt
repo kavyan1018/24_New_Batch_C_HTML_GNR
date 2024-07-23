@@ -1,0 +1,49 @@
+mobile dev :
+            mobile app :- java
+
+web :- 
+    website :- webpages 
+
+    static web page
+    dynamic web page
+
+---------------------------------
+
+HTML MARKUP LANG
+
+html only support 
+----------------------
+html 5 | 2014
+HTML4
+----------------------
+
+VS_CODE download:
+
+.c
+.html
+
+
+tags  
+
+<h1></h1>
+there is total 6 types of headign tags 
+h1 to h6
+
+size difference 
+h1 --> max
+h6 --> min
+--------------------------------------
+
+
+<b> bold 
+<i> italic 
+<emp> EMPHASIS
+<mark> MARK
+<del> DELETE
+<ins> INSERT
+<u> UNDERlINE
+<strong> strong
+<sub> SUBSCRIPT
+<sup> SUPERSCRIPT
+
+------------------------------------------
